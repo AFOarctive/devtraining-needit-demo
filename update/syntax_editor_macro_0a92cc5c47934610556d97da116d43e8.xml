@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="syntax_editor_macro">
+    <syntax_editor_macro action="INSERT_OR_UPDATE">
+        <comments/>
+        <name>jsdoc</name>
+        <sys_class_name>syntax_editor_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-05 12:43:01</sys_created_on>
+        <sys_id>0a92cc5c47934610556d97da116d43e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jsdoc</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>syntax_editor_macro_0a92cc5c47934610556d97da116d43e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-05 12:43:01</sys_updated_on>
+        <text>/**&#13;
+ * Description&#13;
+ * @param {number} value1 The first value&#13;
+ * @param {number} value2 The second value&#13;
+ */&#13;
+</text>
+    </syntax_editor_macro>
+</record_update>
