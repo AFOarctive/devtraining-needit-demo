@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>Other Stuff</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 12:03:04</sys_created_on>
+        <sys_id>aa00c8f4c3eb4610cddc1e0ed401316b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Other Stuff</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_translated_aa00c8f4c3eb4610cddc1e0ed401316b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 12:03:57</sys_updated_on>
+        <value>ae00c8f4c3eb4610cddc1e0ed4013166Other Stuff</value>
+    </sys_translated>
+</record_update>
